@@ -1,0 +1,64 @@
+body {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: 100%;
+	max-width: 800px;
+	margin: auto;
+}
+header {
+	float: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+nav {
+	float: center;
+	display: block;
+}
+section {
+	float: center;
+}
+footer {
+	float: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+h1 {
+	font-weight: normal;
+	font-size: 3em;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+h2 {
+	font-weight: normal;
+	font-size: 2em;
+	text-align: left;
+	margin-bottom: 1em;
+}
+hr {
+	color: white;
+	margin-bottom: 1em;
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: inset;
+}
+p {
+}
+ul.plain {
+	list-style: none;
+}
+li {
+	margin: .5em;
+}
+blockquote, q {
+	padding-left: 1em;
+	padding-right: 1em;
+}
+em {
+	font-style: italic;
+}
+strong {
+	font-weight: bold;
+}
